@@ -703,6 +703,4 @@ High-Side NMOS의 VGS 기준 구동 조건과 이상적 Gate Driver 모델 적�
 
 최종 출력뿐 아니라 VSW, VGS, IL, VCTRL, VPHONE을 함께 검증하는 측정 계획 수립
 
-21. 한 줄 소개
-
-NE555 기반 Buck Converter를 LTspice로 설계하고, 12V 출력 오류부터 부하 모델링 및 피드백 수렴 문제까지 단계적으로 분석하여 실제 핸드폰 입력을 고려한 5V 전원 구조로 개선한 프로젝트입니다.
+<img width="1895" height="1025" alt="최종본 with gpt 수정본" src="https://github.com/user-attachments/assets/a98b582e-4ba6-4dbd-95c4-cf7b90836f13" />
